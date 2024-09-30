@@ -1,0 +1,4 @@
+cx_freeze
+
+pip install pyinstaller
+pip install pipenv
